@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+  <Asset Type="XNA.Pong.Configuration.PadelConfiguration">
+    <Position>10</Position>
+    <AssetName>PlanetBeam</AssetName>
+    <Scale>0.2</Scale>
+  </Asset>
+</XnaContent>

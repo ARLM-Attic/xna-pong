@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+  <Asset Type="XNA.Pong.Configuration.BallConfiguration">
+    <Position>0 0</Position>
+    <AssetName>Bubble</AssetName>
+    <Scale>0.5</Scale>
+  </Asset>
+</XnaContent>

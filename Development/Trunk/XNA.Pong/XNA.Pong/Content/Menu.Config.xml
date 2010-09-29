@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+  <Asset Type="XNA.Pong.Configuration.MenuConfiguration">
+    <Position>10</Position>
+    <AssetName>Pong Title Screen</AssetName>
+    <Scale>1.0</Scale>
+  </Asset>
+</XnaContent>
